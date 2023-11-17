@@ -72,3 +72,4 @@ gem 'simple_form', '~> 5.3'
 gem 'simple_form-tailwind', '~> 0.1.1'
 gem 'autoprefixer-rails', '~> 10.4', '>= 10.4.15.0'
 gem 'font-awesome-sass', '~> 6.4', '>= 6.4.2'
+gem 'sprig', '~> 0.3.1' # for seeding
